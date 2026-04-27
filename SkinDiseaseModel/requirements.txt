@@ -1,0 +1,7 @@
+
+streamlit
+torch
+numpy
+opencv-python
+pillow
+reportlab
